@@ -1,0 +1,101 @@
+[
+    {
+        "id": "1",
+        "title":"Diablo® IV: Vessel of Hatred - Ultimate Edition",
+        "category":"Diablo IV",
+        "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt75adef01b186cab3/63dc132f6ce8bf6444a8beb8/games-d4-colored.svg",
+        "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltff6fdf959163a5a7/66568f9109d7e5fe2b1514ba/DIA_DIV_X1_BNET_PRE_PURCHASE_static_browsing_card_ultimate_1920x1080.png?imwidth=388&imdensity=1.25",
+        "text":"Vessel of Hatred Available Now!",
+        "sub":"Action RPG",
+        "bottem":"€89.99"
+      },
+      {
+        "id": "2",
+        "title":"World of Warcraft®: The War Within™",
+        "category":"World of Warcraft",
+        "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+        "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8251b00af5c9b40a/66bfcb5b7e3fe282ad56f73c/WOW_11.0_TWW_LaunchBanners-Destruction_Launcher_FranchisePhoenix_1920x1080_JL01b.png?imwidth=388&imdensity=1.25",
+        "text":"Now live! Get a Level 70 Boost included in all editions and get back in the fight.",
+        "sub":"Massively Multiplayer RPG",
+        "bottem":"€49.99"
+      },
+      {
+        "id": "3",
+        "title":"Call of Duty®: Black Ops 6 - Vault Edition",
+        "category":"Call of Duty Black Ops 6",
+        "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+        "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltdfd26d2c32d19428/6657ade2a18b1660eed4ca63/-Bnet_Game-Card_Product_browsing-EN-960x540_(6).jpg?imwidth=388&imdensity=1.25",
+        "text":"Available Now ",   
+        "sub":"Action Shooter",
+        "bottem":"€109.99"
+      },
+      {
+        "id": "4",
+        "title":"Overwatch® 2 Premium Battle Pass: Season 13",
+        "category":"Overwatch 2",
+        "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt7e22237aad327854/63db19a1592f74643d1a389a/Overwatch2_(1).svg",
+        "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltbb9c5beacad46932/6704611dbeea3d8c25713e81/OW2_2024_S13-Premium-BNET_SA01_SHOP-browsingcard_1920x1080.png?imwidth=388&imdensity=1.25",   
+        "text":"Become a master of magic with the Season 13 Premium Battle Pass.",
+        "sub":"Team-Based Action Game",
+        "bottem":"Learn More"
+      },
+      {
+        "id": "5",
+        "title":"Call of Duty®: Modern Warfare® III - BlackCell (Season 6)",
+        "category":"Call of Duty: Modern Warfare III",
+        "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8168cbdbbc05770d/64cc38e2c45759d767a1f84f/Jupiter_Coming_Soon-Bnet_Game-Icon_Shop-EN-Vector-01.svg",
+        "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt32ea6ca11826bb20/66e362c5a36bc98ab7e16d68/-Bnet_Game-Content_UI_(Phoenix)-1920x1080-textless_(1).jpg?imwidth=388&imdensity=1.25",
+        "sub":"In-game content",
+        "bottem":"€29.99"
+      },
+      {
+        "id": "6",
+        "title":"The Great Dark Beyond Tavern Pass",
+        "category":"Hearthstone",
+        "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt5538a5cdb0e16552/60db86c967d3385db9b805be/hearthstone.svg",
+        "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt72ff6065992e221b/6722b884d265fa8b9e8a5f55/HS_31p0_TavernPass_Battlenet_ShopBrowsingCard_1920x1080_LZO02.png?imwidth=388&imdensity=1.25",
+        "text":"Available through March 18, 2025",   
+        "sub":"Card Packs",
+        "bottem":"€19.99"
+      },
+      {
+        "id": "7",
+        "title":"Accelerated Battle Pass - Season of Hatred Rising",
+        "category":"Diablo IV",
+        "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt75adef01b186cab3/63dc132f6ce8bf6444a8beb8/games-d4-colored.svg",
+        "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt04a2fecf0511ab64/66f757cddca10158add70e64/Diablo_D4_S6_launch_s6_battlepass_checkout_thumbnail_bchbl_stat_enus_1920x1080_RD1_1_TS02.png?imwidth=388&imdensity=1.25",
+        "text":"Get the Premium Battle pass plus 20 Tier Skips and “Creeping Hollows” emote!",   
+        "sub":"In-Game Content",
+        "bottem":"2,800 Platinum"
+      },
+      {
+        "id": "8",
+        "title":"World of Warcraft®: Special Subscription Offer",
+        "category":"World of Warcraft Cataclysm Classic",
+        "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltfc0228492a2cda74/6545583cade0dc70152ca5b4/WoW_Classic_Cata(Exp).svg",
+        "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb0d1b87171c63a4e/6705c34f539e48622f3ca219/WoW_12Months_ShopYearofAzeroth2024_BnetShop_BrowsingCard_1920x1080.jpg?imwidth=388&imdensity=1.25",   
+        "text":"Includes access to World of Warcraft, Cataclysm Classic, Classic Season of Discovery and Hardcore Realms! ",
+        "sub":"Subscriptions",
+        "bottem":"Learn More"
+      },
+      {
+        "id": "9",
+        "title":"Call of Duty®: Warzone",
+        "category":"Call of Duty: Warzone",
+        "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt294c43cf459c9461/648918994630b6246bc70c14/Warzone_WZ_White_RGB.svg",
+        "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt825dc158da3cd435/63619505791b1444d8d1d39a/CODWZ2_S1-Bnet_Game-Product_Browsing_Card-960x540.jpg?imwidth=388&imdensity=1.25",
+        "text":"Free for everyone",   
+        "sub":"Free-To-Play Action Shooter",
+        "bottem":"Play For Free"
+      },
+      {
+        "id": "10",
+        "title":"Trader’s Gilded Brutosaur",
+        "category":"World of Warcraft",
+        "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltfc0228492a2cda74/6545583cade0dc70152ca5b4/WoW_Classic_Cata(Exp).svg",
+        "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blta17042f6f4536c84/670f0fc5d0df95806b4cc12c/WoW_Traders_BrutosaurMount_BnetShop_ProductAssetGallery_1920x1080.png?imwidth=332&imdensity=1.25",
+        "text":"Check your Auctions and Mail in style with the Trader’s Gilded Brutosaur!",
+        "sub":"Mounts",
+        "bottem":"€78.00"
+      }
+]

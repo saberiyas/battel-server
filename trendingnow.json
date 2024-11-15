@@ -1,0 +1,101 @@
+[
+    {
+      "id": "1",
+      "title":"Battle.net® Balance",
+      "category":"Battle.net Services",
+      "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt20ce4bea7a364041/60eddfc82d26525ef67aca6b/battlenet-nexus-color.svg",
+      "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt57a421d9cc7b9cc7/6435dd4ed402e526b209460e/Battlenet-Balance.jpg?imwidth=332&imdensity=1.25",
+      "sub":"Game Services",
+      "bottem":"Learn More"
+    },
+    {
+      "id": "2",
+      "title":"Call of Duty®: Black Ops 6",
+      "category":"Call of Duty Black Ops 6",
+      "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+      "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6eab8ebc74b0a118/6647c638958c44bf1e3611be/-Bnet_Game-Card_Product_browsing-EN-960x540_(4).jpg?imwidth=332&imdensity=1.25",
+      "text":"Available Now ",
+      "sub":"Action Shooter",
+      "bottem":"€79.99"
+    },
+    {
+      "id": "3",
+      "title":"World of Warcraft®: Subscription",
+      "category":"World of Warcraft",
+      "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+      "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltf84b3964293bfc37/66959d1ef99331180ad237e0/WOW_11p0_TWW_EarlyAccessBanners_ProductAssetGallery-noLogos_1920x1080_enUS_JL01b.png?imwidth=332&imdensity=1.25",
+      "text":"Get access to World of Warcraft®, now including Dragonflight, Cataclysm Classic™, Classic Season of Discovery, and more!  ",
+      "sub":"Subscriptions",
+      "bottem":"€10.99/month"
+    },
+    {
+      "id": "4",
+      "title":"Diablo® IV: Vessel of Hatred - Standard Edition",
+      "category":"Diablo IV",
+      "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt75adef01b186cab3/63dc132f6ce8bf6444a8beb8/games-d4-colored.svg",
+      "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltacdc7f5c58a2bca4/66568f9142baa4797b6aeadb/DIA_DIV_X1_BNET_PRE_PURCHASE_static_browsing_card_standard_1920x1080.png?imwidth=332&imdensity=1.25",
+      "text":"Vessel of Hatred Available Now!",
+      "sub":"Action RPG",
+      "bottem":"€39.99"
+    },
+    {
+      "id": "5",
+      "title":"Trader’s Gilded Brutosaur",
+      "category":"World of Warcraft",
+      "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltfc0228492a2cda74/6545583cade0dc70152ca5b4/WoW_Classic_Cata(Exp).svg",
+      "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blta17042f6f4536c84/670f0fc5d0df95806b4cc12c/WoW_Traders_BrutosaurMount_BnetShop_ProductAssetGallery_1920x1080.png?imwidth=332&imdensity=1.25",
+      "text":"Check your Auctions and Mail in style with the Trader’s Gilded Brutosaur!",
+      "sub":"Mounts",
+      "bottem":"€78.00"
+    },
+    {
+      "id": "6",
+      "title":"Overwatch® 2 – Overwatch Coins",
+      "category":"Overwatch 2",
+      "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt7e22237aad327854/63db19a1592f74643d1a389a/Overwatch2_(1).svg",
+      "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt5387d7cefaf9923d/6334e1997e84e17596f9c816/Coins_960x540.png?imwidth=332&imdensity=1.25",
+      "text":"Use Overwatch Coins to Get the Premium Battle Pass and More! ",
+      "sub":"Prisms and Coins",
+      "bottem":"€4.99"
+    },
+    {
+      "id": "7",
+      "title":"Call of Duty®: Black Ops 6 - Vault Edition",
+      "category":"Call of Duty Black Ops 6",
+      "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+      "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltdfd26d2c32d19428/6657ade2a18b1660eed4ca63/-Bnet_Game-Card_Product_browsing-EN-960x540_(6).jpg?imwidth=332&imdensity=1.25",
+      "text":"Available Now ",
+      "sub":"Action Shooter",
+      "bottem":"F€109.99"
+    },
+    {
+      "id": "8",
+      "title":"World of Warcraft®: The Reven Pack",
+      "category":"World of Warcraft",
+      "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltfc0228492a2cda74/6545583cade0dc70152ca5b4/WoW_Classic_Cata(Exp).svg",
+      "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt54011515df49cadd/671bd3b04cf974ebf3ea6a4e/WoW_-_Shop_Ibelin_Charity_Pet_Reven_Pack_BnetShop_ProductAssetGallery_1920x1080_(1).png?imwidth=332&imdensity=1.25",
+      "text":"Support CureDuchenne until January 7, 2025!",
+      "sub":"Pets",
+      "bottem":"€20.00"
+    },
+    {
+      "id": "9",
+      "title":"World of Warcraft®: The War Within™",
+      "category":"World of Warcraft",
+      "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+      "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8251b00af5c9b40a/66bfcb5b7e3fe282ad56f73c/WOW_11.0_TWW_LaunchBanners-Destruction_Launcher_FranchisePhoenix_1920x1080_JL01b.png?imwidth=332&imdensity=1.25",
+      "text":"Now live! Get a Level 70 Boost included in all editions and get back in the fight.",
+      "sub":"Massively Multiplayer RPG",
+      "bottem":"From €49.99"
+    },
+    {
+      "id": "10",
+      "title":"Warcraft® 30th Anniversary Mount Bundle",
+      "category":"World of Warcraft",
+      "svg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+      "image":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6e381c52075a34c1/670978462145869928818d8c/WoW_Warcraft30th_MountBundle_BnetShop_BrowsingCard_1920x1080.png?imwidth=332&imdensity=1.25",
+      "text":"Celebrate 30 years of Warcraft with a collection of iconic mounts!",
+      "sub":"Mounts",
+      "bottem":"€30.00"
+    }
+  ]
